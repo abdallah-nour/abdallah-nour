@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallah-nour&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-nour" /> </p>
 
-- 🔭 I’m currently working as a Freelancer **<a href="https://www.freelancer.com/u/abdallahNourDeen">Freelancer</a> and <a href="">UpWork</a> **
+- 🔭 I’m currently working as a Freelancer **<a href="https://www.freelancer.com/u/abdallahNourDeen">Freelancer</a> and <a href="">UpWork</a>**
 
 - 💬 Ask me about **JavaScript, React.js and node.js**
 
