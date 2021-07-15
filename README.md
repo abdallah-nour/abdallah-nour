@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdallah NourAldin</h1>
 <h3 align="center">Creative and Highly Skilled Full-stack Developer from Palestine.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallah-nour&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-nour" /> </p>
 
 - 🔭 I’m currently working as a Freelancer at **<a href="https://www.freelancer.com/u/abdallahNourDeen">Freelancer</a> and <a href="">UpWork</a>**
 
@@ -43,6 +42,7 @@
 
 
 
-
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallah-nour&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah-nour" /> </p>
 
 
