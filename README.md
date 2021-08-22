@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **JavaScript, React.js and node.js**
 
-- 📫 How to reach me **abdallah.nouraldin@gmail.com**
+- 📫 Reach me through **abdallah.nouraldin@gmail.com**
 
 
 <h3 align="left">Frontend Languages & Tools:</h3>
